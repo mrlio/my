@@ -1,0 +1,8 @@
+C:\Users\mr_lio_64\Documents\SharpDevelop Projects\pixelSitter\pixelSitter\obj\Debug\pixelSitter.csprojResolveAssemblyReference.cache
+C:\Users\mr_lio_64\Documents\SharpDevelop Projects\pixelSitter\pixelSitter\obj\Debug\pixelSitter.MainForm.resources
+C:\Users\mr_lio_64\Documents\SharpDevelop Projects\pixelSitter\pixelSitter\obj\Debug\pixelSitter.csproj.GenerateResource.Cache
+C:\Users\mr_lio_64\Documents\SharpDevelop Projects\pixelSitter\pixelSitter\bin\Debug\pixelSitter.exe.config
+C:\Users\mr_lio_64\Documents\SharpDevelop Projects\pixelSitter\pixelSitter\bin\Debug\pixelSitter.exe
+C:\Users\mr_lio_64\Documents\SharpDevelop Projects\pixelSitter\pixelSitter\bin\Debug\pixelSitter.pdb
+C:\Users\mr_lio_64\Documents\SharpDevelop Projects\pixelSitter\pixelSitter\obj\Debug\pixelSitter.exe
+C:\Users\mr_lio_64\Documents\SharpDevelop Projects\pixelSitter\pixelSitter\obj\Debug\pixelSitter.pdb
